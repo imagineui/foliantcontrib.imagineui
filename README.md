@@ -44,7 +44,7 @@ preprocessors:
 :   Version of the `imagineui-cli` package in NPM. "global" (default) will skip and will use either the version already installed globally or the latest version, which speeds up NPX significantly. 
 
 `cache_dir`
-:   Directory to store downloaded and resized images.
+:   Directory to store rendered images.
 
 ## Usage
 
